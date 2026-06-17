@@ -382,9 +382,9 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 
 </details>
 
----
-
 </details>
+
+---
 
 <details>
 <summary><h3>♻️ 4-2. 打撈 / 回收</h3></summary>
