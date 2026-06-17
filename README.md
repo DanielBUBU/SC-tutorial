@@ -25,11 +25,10 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 <!-- [!NOTE]-->
 > 使用 Gift 功能的流程：進入網頁機庫 → 選擇物品 → 點選右下 Gift → 輸入對方信箱
 
-| 步驟 | 說明 |
-|------|------|
-| 1 | 進入 RSI 網頁機庫選擇物品 |
-| 2 | 點選右下角 Gift 按鈕 |
-| 3 | 輸入對方帳號信箱發送連結 |
+
+1.進入 RSI 網頁機庫選擇物品
+2.點選右下角 Gift 按鈕
+3.輸入對方帳號信箱發送連結
 
 ![Gift 功能介面](./assets/gift_panel.png)
 ![Gift 功能操作](./assets/gift_send.png)
@@ -42,7 +41,7 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 - 註冊連結網址後方
 - 官方註冊頁面內的欄位
 
-> **範例連結：** `https://www.robertsspaceindustries.com/enlist?referral=STAR-KYGD-H4NG`
+> **範例連結：** [`https://www.robertsspaceindustries.com/enlist?referral=STAR-KYGD-H4NG`](https://www.robertsspaceindustries.com/enlist?referral=STAR-KYGD-H4NG)
 
 ![邀請碼範例](./assets/referral_code.jpg)
 
