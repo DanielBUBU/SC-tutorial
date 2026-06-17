@@ -100,7 +100,7 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 ### 📋 重要提示清單
 
 <!-- [!CAUTION] -->
-> **極度、非常、超級建議跳過新手教學！** 裡面的 bug 可能會觸發「黃金體驗」（即嚴重卡關或損失）。
+> **極度、非常、超級建議跳過新手教學！** 裡面的 bug 可能會觸發「黃金體驗」。
 
 | 按鍵 | 功能 |
 |------|------|
@@ -187,6 +187,7 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 | `長按 X` | 空中減速，加快進入懸停狀態 |
 | `Alt+滑鼠滾輪` | 手動降低限速 |
 
+> 起落架指示燈
 ![起落架指示燈](./assets/landing_gear_indicator.png)
 
 <!-- [!TIP]-->
@@ -194,13 +195,16 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 > - **SCM 模式**才能使用護盾與武器
 > - 盡量不要對著有障礙物的方向飛
 
+> NAV 模式與 SCM 模式
 ![NAV 模式與 SCM 模式切換](./assets/nav_scm_mode_1.webp)
 ![NAV 模式與 SCM 模式切換](./assets/nav_scm_mode_2.webp)
 
+> 導航介面與跳躍校準
 ![導航介面](./assets/nav_interface_1.png)
 ![導航介面](./assets/nav_interface_2.png)
-
 ![跳躍對準說明](./assets/quantum_jump.png)
+
+> 限速調整
 ![限速調整說明](./assets/speed_limiter.png)
 
 ---
@@ -223,11 +227,14 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 1. 降落後坐電梯進入太空站內部
 2. 前往**同一樓層的醫院**找保險面板
 3. 點選設置重生點
+<details>
+<summary>點擊展開查看圖片</summary>
+<br>
 
 ![太空站醫院 1](./assets/station_hospital_1.jpg)
 ![太空站醫院 2](./assets/station_hospital_2.jpg)
 ![太空站醫院 3](./assets/station_hospital_3.jpg)
-
+</details>
 ---
 
 ### 🛒 太空站購買清單
@@ -244,10 +251,17 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 | **Tractor 模組** | 小型牽引模組 |
 | **SCU 箱** | 標準貨運容器 |
 
+<details>
+<summary>點擊展開查看圖片</summary>
+<br>
+
+
 ![貨運甲板商店 1](./assets/cargo_deck_shop_1.jpg)
 ![貨運甲板商店 2](./assets/cargo_deck_shop_2.jpg)
 ![貨運甲板商店 3](./assets/cargo_deck_shop_3.jpg)
 ![貨運甲板商店 4](./assets/cargo_deck_shop_4.jpg)
+
+</details>
 
 <!-- [!TIP]-->
 > **醫療槍（ParaMed）** 在醫院（設重生點的地方附近）販售。
