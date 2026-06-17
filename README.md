@@ -457,9 +457,10 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 
 </details>
 
----
 
 </details>
+
+---
 
 <details>
 <summary><h3>⛏️ 4-4. 生產（礦物、採集、~~畜牧~~）</h3></summary>
