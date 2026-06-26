@@ -195,6 +195,10 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 > - **SCM 模式**才能使用護盾與武器
 > - 盡量不要對著有障礙物的方向飛
 
+> 飛機儀表大致上與這個差不多,姿態儀會顯示船體目前平移的方向(第二張附圖)
+![現實飛行儀錶](./assets/IRLIndicator.png)
+![姿態儀](./assets/headingMarker.png)
+
 > NAV 模式與 SCM 模式
 ![NAV 模式與 SCM 模式切換](./assets/nav_scm_mode_1.webp)
 ![NAV 模式與 SCM 模式切換](./assets/nav_scm_mode_2.webp)
