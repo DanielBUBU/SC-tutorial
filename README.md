@@ -529,11 +529,18 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 
 ### 🔄 CCU 升級券
 
-CCU（Cross Chassis Upgrade）是從一艘船升級到另一艘船的升級券。
+CCU（Cross Chassis Upgrade） = 補差價把「舊船」變成「新船」的兌換券
 
 <!-- [!TIP]-->
 > - 活動期間也有 **WB 版本的 CCU 券**，通常更便宜
 > - **不需要持有升級前那艘船**也能購買 CCU 券，可以提前囤積「疊 CCU」
+
+- 當你買了一張 A 船 ➔ B 船 的 CCU 券,這張卷只是一張卡片（存在你的網頁機庫 Hangar 中）,不會立刻讓你的船變身
+- 你必須在官網機庫點擊 Apply Upgrade（套用升級），把這張券蓋在 A 船上，A 船才會正式變成 B 船。
+
+- 將多張 Warbond CCU 券串在一起（A➔B, B➔C, C➔D）,每一張卷省下的錢會全部疊加;這就是老玩家口中的「CCU 升級鏈（CCU Chain）」
+- 不論你中間套用了多少張 CCU 卷,這艘船最終只會算長度最久的保險(不疊加)
+
 
 ![CCU 購買方式 1](./assets/ccu_buy_1.png)
 ![CCU 購買方式 2](./assets/ccu_buy_2.png)
@@ -541,9 +548,9 @@ CCU（Cross Chassis Upgrade）是從一艘船升級到另一艘船的升級券�
 
 ---
 
-### 📊 CCU 範例
+### 📊 WBCCU 範例
 
-> 範例：從 Scorpius 升級到 Apollo Triage，差價 $10 美金
+> 從Scorpius($240)升級到阿波蘿 Triage($260),票面價值20美金,實際花費10美金
 
 ![CCU 升級範例 1](./assets/ccu_example_1.jpg)
 ![CCU 升級範例 2](./assets/ccu_example_2.png)
