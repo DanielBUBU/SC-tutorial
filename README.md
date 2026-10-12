@@ -470,12 +470,138 @@ Gift 功能（見附圖右下角）可將網頁機庫內的物品以「轉移連
 <summary><h3>⛏️ 4-4. 生產（礦物、採集、~~畜牧~~）</h3></summary>
 
 <br>
-
-> 建置中，敬請期待。
-
+<details>
+<summary><h4>🪨 4-4-1. 採礦</h4></summary>
+<br>
+挖礦主要分成 **FPS/車礦** 與 **船礦** 兩大類；流程分為四個步驟：**找礦 → 碎礦 → 吸礦 → 精煉**。
+ 
+---
+ 
+<details>
+<summary><h5>🔭 4-4-1-1. 找礦</h5></summary>
+<br>
+找礦主要透過兩種方式：
+ 
+- **攻略網站**：查詢各礦種的分布位置
+- **艦船掃描信號**：預設按 `V` 切換掃描模式，可調整搜索角度
+> [!NOTE]
+> 每種礦石都有獨特的掃描數值，數值會根據礦量**疊加顯示**，數值越高代表礦量越豐富。
+ 
+![掃描找礦 1](./assets/findingOres1.webp)
+![掃描找礦 2](./assets/findingOres2.webp)
+![掃描找礦 3](./assets/findingOres3.webp)
+ 
 </details>
+---
+ 
+<details>
+<summary><h5>💥 4-4-1-2. 碎礦</h5></summary>
+<br>
+#### FPS 碎礦
+ 
+FPS 碎礦主要使用 **Pyro 多功能工具 + 採礦模組**。
+ 
+| 操作 | 說明 |
+|------|------|
+| 對準礦石 | 會顯示礦石的詳細資料 |
+| 輕點左鍵 | 開啟碎礦雷射 |
+| 滑鼠滾輪 | 調整雷射強度，**控制在綠區內** |
+ 
+![FPS 碎礦 1](./assets/FPSMining1.png)
+![FPS 碎礦 2](./assets/FPSMining2.png)
+ 
+---
+ 
+#### 載具碎礦
+ 
+載具的採礦介面提供更多資訊：
+ 
+- **左側面板**：模組資訊、礦頭資訊、最佳作業距離（雷射太強可以拉開距離降低強度）
+- **右側面板**：目標礦石資訊、礦物成分、綠區與雷射強度指示
+![載具碎礦介面](./assets/VehicleMining1.png)
+ 
+| 按鍵 | 功能 |
+|------|------|
+| `M` | 啟動工業模式 |
+| `Alt+1` / `Alt+2` | 啟動模組（被動／主動，部分有使用次數限制） |
+| `Alt+4` | 高能／低能模式切換 |
+| `G` | 切換萬向節模式 |
+| 滾輪 / `Alt+滾輪` | 調整雷射強度 |
+ 
+![高低能模式切換](./assets/mining_power_mode.png)
+ 
+---
+ 
+#### 貼片(Mining Consumables)
+ 
+> <!--[!TIP]-->
+> 貼片可在**精煉站**購買，貼上去並調整數值後可啟動加成效果。
+> - 一顆礦石只能使用**一片**貼片
+> - 貼片可**重複使用**
+ 
+![貼片購買](./assets/MiningGardget1.png)
+![貼片使用](./assets/MiningGardget2.png)
+![貼片效果](./assets/MiningGardget3.png)
+ 
+</details>
+---
+ 
+<details>
+<summary><h5>🧲 4-4-1-3. 吸礦</h5></summary>
+<br>
+#### FPS 吸礦
+ 
+**按住右鍵** 即可將礦石吸入背包。
+ 
+![FPS 吸礦](./assets/FPSMining3.png)
+ 
+---
+ 
+#### 載具吸礦
+ 
+按 **`Alt+左鍵`** 切換模式後，即可開啟雷射進行吸礦。
+ 
+![載具吸礦模式](./assets/VehicleMining3.png)
+ 
+</details>
+---
+ 
+<details>
+<summary><h5>🏭 4-4-1-4. 精煉</h5></summary>
+<br>
+> <!--[!NOTE]-->
+> **FPS/車礦不需要精煉**，採完可直接賣出。
+>
+> **船礦**可選擇送至精煉站精煉，或直接賣出原礦。
 
-
+![精煉面板](./assets/VehicleMiningRefinery1.png)
+![原礦販售面板](./assets/VehicleMiningRefinery2.png)
+ 
+---
+ 
+#### 解鎖礦袋並送入貨梯
+ 
+在駕駛座上按 **`Right Alt+K`** 解鎖礦袋，再將礦袋拉進貨梯即可。
+---
+ 
+#### 精煉站操作流程
+ 
+進入精煉面板後依序選擇：
+ 
+1. **精煉地點**
+2. **精煉方法** — 選擇 **高 YIELD（產出率高）** 的方式（每個精煉站對不同礦種有不同加成）
+3. **要精煉的礦種**
+> <!--[!IMPORTANT]-->
+> **精煉完成後記得回來領礦！** 精煉結果不會自動轉移。
+ 
+![精煉面板操作](./assets/VehicleMiningRefinery3.png)
+![精煉方法選擇](./assets/VehicleMiningRefinery4.png)
+![精煉領礦](./assets/VehicleMiningRefinery5.png)
+ 
+</details>
+</details>
+</details>
+---
 
 <details>
 <summary><h3>⚔️ 4-5. PvPvE</h3></summary>
